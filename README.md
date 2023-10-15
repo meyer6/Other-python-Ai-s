@@ -1,6 +1,6 @@
 # Other-python-Ai-s #
-A collection of all the random ai's I coded in python
-\\A brief overview is outlined below
+A collection of all the random ai's I coded in python  
+A brief overview is outlined below
 - Pokeone ai
   - Provides an interface to automate movement and battles, including different movesets, strategies and pokemon
   - Currently programmed to farm xp
