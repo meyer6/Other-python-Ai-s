@@ -8,7 +8,7 @@ A brief overview is outlined below
 - Typing Test
   - Can achieve 200+ WPM on the MonkeyType typing test
 - JKLM
-  - An ai that played the JKLM game bomb party (Must write a word with a certain character combination inside of it in a small time frame e.g. "rice" if prompt was "ic")
+  - An ai that played the multiplayer JKLM game "bomb party"
 - Piano Tiles
   - Plays the game piano tiles (On the following [link](https://www.crazygames.com/game/magic-piano-tiles)
 - Stickman Archer
